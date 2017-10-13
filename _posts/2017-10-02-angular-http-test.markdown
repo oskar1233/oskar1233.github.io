@@ -4,8 +4,6 @@ title:  "Angular 4 - Http testing, API service"
 date:   2017-10-13 10:00:00 +0200
 ---
 
-## Introduction
-
 In this article I'll (try to) cover creating really simple API service and test for it, so it can be extended later with more complex functionallity later. As for now, it will be simple wrapper around Angular's Http service.
 
 Let's go!

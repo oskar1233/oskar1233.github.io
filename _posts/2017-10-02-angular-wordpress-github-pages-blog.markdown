@@ -4,9 +4,7 @@ title:  "Angular, Wordpress & Github Pages blog"
 date:   2017-10-13 13:00:00 +0200
 ---
 
-Hello.
-
-I have recently created my personal website and started writing a blog. The first version of it was written in Angular and used Wordpress for the backend. Why? I don't really know, just wanted to play around with Angular while learning it and test Wordpress REST API. Now I switched to Jekyll, because it's much simplier and is fitting better for creating a blog, but integrating Angular, Wordpress and Github Pages was pretty educative experience.
+I am starting my personal website and started writing a blog. The first version of it was written in Angular and used Wordpress for the backend. Why? I don't really know, just wanted to play around with Angular while learning it and test Wordpress REST API. Now I switched to Jekyll, because it's much simplier and is fitting better for creating a blog, but integrating Angular, Wordpress and Github Pages was pretty educative experience.
 
 You can check out all the code of this project on [Github](https://github.com/oskar1233/awg-blog) and working example [here](https://awg.oskar1233.eu). I probably won't continue to develop it, but if you have similar mad idea feel free to use it on your purpose. And under your responsibility.
 
