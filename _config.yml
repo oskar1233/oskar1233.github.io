@@ -4,11 +4,11 @@ description: >-
   oskar1233's personal website - blog & portfolio
 baseurl: ""
 url: "https://oskar1233.eu"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: oskar1233
+github_username:  oskar1233
 
 markdown: kramdown
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
