@@ -6,6 +6,7 @@ baseurl: ""
 url: "https://oskar1233.eu"
 twitter_username: oskar1233
 github_username:  oskar1233
+google_analytics: UA-105721726-1
 
 markdown: kramdown
 theme: minima
