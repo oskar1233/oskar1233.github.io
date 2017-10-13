@@ -1,0 +1,14 @@
+title: oskar1233
+email: ooskar1233@yahoo.com
+description: >-
+  oskar1233's personal website - blog & portfolio
+baseurl: ""
+url: "https://oskar1233.eu"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+markdown: kramdown
+theme: minimal
+plugins:
+  - jekyll-feed
+
