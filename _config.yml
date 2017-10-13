@@ -8,7 +8,7 @@ twitter_username: oskar1233
 github_username:  oskar1233
 
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 

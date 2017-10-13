@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+  <div style='margin-top:1.2em'>
+    <h1>{{ post.title }}</h1>
+    {{ post.excerpt }}
+    <a href='{{ post.url }}' style='text-align:right'>Read more</a>
+  </div>
+{% endfor %}
