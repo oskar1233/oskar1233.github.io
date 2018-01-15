@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CakePHP, preflight & CORS"
-date: 2018-15-02 18:15:00 +0100
+date: 2018-02-15 18:15:00 +0100
 ---
 
 Today I have faced a problem with CakePHP backend. It was related to preflight `OPTIONS` request made to the app from frontend.
