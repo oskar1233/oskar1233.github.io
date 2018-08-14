@@ -283,7 +283,7 @@ end
 
 ```
 
-Now, we can use it for example in our `UserController` like this: `plug Coinwiz.AuthPipeline`. It will ensure that only authenticated uses have access to `UserController`.
+Now, we can use it for example in our `UserController` like this: `plug SampleGuardianWeb.AuthPipeline`. It will ensure that only authenticated uses have access to `UserController`.
 
 # Permissions
 
@@ -312,7 +312,7 @@ def build_claims(claims, _resource, opts) do
 end
 ```
 
-Now, when we use `encode_and_sign` method, we can specify permissions to encode like this: `{:ok, token, _claims} = Coinwiz.Guardian.encode_and_sign(user, %{}, permissions: %{user: [:invoices]})`. Then in our invoices controller we can write:
+Now, when we use `encode_and_sign` method, we can specify permissions to encode like this: `{:ok, token, _claims} = SampleGuardianWeb.Guardian.encode_and_sign(user, %{}, permissions: %{user: [:invoices]})`. Then in our invoices controller we can write:
 
 ``` elixir
 plug SampleGuardianWeb.AuthPipeline
