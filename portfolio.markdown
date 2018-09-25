@@ -18,7 +18,7 @@ Unfortunately the owner took it down.
 
 Technology: Ember.JS, Elixir/Phoenix, Bootstrap 4
 
-## "AWG" integration - <small>[link](https://awg.oskar1233.eu)</small>
+## "AWG" integration - <small>[link](https://oskar1233.github.io/awg-blog/)</small>
 Angular-Wordpress-Github Pages integration. Read more [here]({% post_url 2017-10-02-angular-wordpress-github-pages-blog %}).
 
 Technology: Angular 4, Wordpress, Github
@@ -27,9 +27,11 @@ Technology: Angular 4, Wordpress, Github
 
 Website about feelings and emotions focused on children and parenthood.
 
-Its theme is fully compatible with [AMP](https://www.ampproject.org/).
+Current version of the website is written in Vue.js and is utilizing WordPress as headless CMS.
 
-Technology: Accelerated Mobile Pages (AMP), Wordpress
+Previously, its theme was fully compatible with [AMP](https://www.ampproject.org/).
+
+Technology: Accelerated Mobile Pages (AMP), Wordpress, Vue
 
 ## Dokładkę Proszę! (PL) - <small>[link](https://dokladkeprosze.pl)</small>
 
